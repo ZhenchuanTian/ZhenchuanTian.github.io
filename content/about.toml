@@ -3,10 +3,11 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Perovskite Solar Cells",
-  "All-Perovskite Tandem Devices",
-  "2D Materials & MXene Interfaces",
-  "Operando Characterisation"
+  "Perovskite Single-Junction",
+  "All-Perovskite Tandem",
+  "Wide-Band Gap Perovskite",
+  "Stability based in ISOS",
+  "Operando/In-situ Characterizations"
 ]
 
 [[sections]]
