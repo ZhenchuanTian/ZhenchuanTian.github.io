@@ -1,0 +1,31 @@
+type = "card"
+title = "Awards & Funding"
+description = "Competitive awards, fellowships, and research funding."
+
+[[items]]
+title = "Stability Contest Winner — Single Junction Category"
+subtitle = "tandemPV International Workshop 2025 · Hasselt, Belgium & Online"
+date = "May 2025"
+content = "M. Karimipour, N. Monros Oliveras, Z. Tian, M. Lira-Cantú. Awarded for best stability performance in the single-junction perovskite category."
+tags = ["Award", "Competition"]
+
+[[items]]
+title = "Spanish National Predoctoral Research Contract"
+subtitle = "Agencia Estatal de Investigación (AEI) · PREP2022-000291"
+date = "2024–2028"
+content = "Competitive national fellowship for doctoral training, associated with project PID2022-143344OB-100 (Ministry of Science, Spain)."
+tags = ["Fellowship", "Funding"]
+
+[[items]]
+title = "Competitive Beamtime — SOLEIL Synchrotron Radiation Facility"
+subtitle = "SOLEIL, Saint-Aubin, France"
+date = "2026"
+content = "Competitive beamtime proposal accepted at the SOLEIL national synchrotron radiation facility for advanced in-situ characterisation experiments."
+tags = ["Beamtime", "Synchrotron"]
+
+[[items]]
+title = "Competitive Beamtime — Beijing Synchrotron Radiation Facility (BSRF)"
+subtitle = "Institute of High Energy Physics, Beijing, China"
+date = "2026"
+content = "Competitive beamtime proposal accepted at BSRF for synchrotron-based structural and optoelectronic characterisation of perovskite films."
+tags = ["Beamtime", "Synchrotron"]

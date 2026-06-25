@@ -1,0 +1,67 @@
+[site]
+title = "Zhenchuan Tian"
+description = "PhD candidate in perovskite solar cells and all-perovskite tandem photovoltaics at ICN2, Barcelona."
+favicon = "/favicon.svg"
+last_updated = "June 2025"
+
+[author]
+name = "Zhenchuan Tian"
+title = "PhD Candidate"
+institution = "Catalan Institute of Nanoscience and Nanotechnology (ICN2)"
+avatar = "/bio.jpg"
+
+[social]
+email = "zhenchuan.tian@icn2.cat"
+location = "Barcelona, Spain"
+location_url = "https://maps.google.com/?q=ICN2+UAB+Campus+Bellaterra+Barcelona"
+location_details = [
+  "Edifici ICN2, Campus UAB,",
+  "Bellaterra (Barcelona), 08193, Spain"
+]
+google_scholar = "https://scholar.google.com.hk/citations?user=7Bn_93YAAAAJ&hl=en"
+orcid = "https://orcid.org/0009-0002-5741-9868"
+github = "https://github.com/ZhenchuanTian"
+linkedin = "https://www.linkedin.com/in/zhenchuan-tian-01bb0b210/"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Research"
+type = "page"
+target = "research"
+href = "/research"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Blog"
+type = "page"
+target = "blog"
+href = "/blog"
+
+[[navigation]]
+title = "Contact"
+type = "page"
+target = "contact"
+href = "/contact"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

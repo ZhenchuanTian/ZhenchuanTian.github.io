@@ -1,0 +1,39 @@
+type = "card"
+title = "Research"
+description = "My work focuses on perovskite photovoltaics — from material design and device engineering to advanced operando characterisation."
+
+[[items]]
+title = "Wide-Bandgap Perovskite Top Cells"
+subtitle = "Halide Perovskites · Phase Stability"
+content = "Engineering high-Br mixed-halide perovskites (Eg ≥ 1.7 eV) with suppressed phase segregation under prolonged illumination — a key stability bottleneck for tandem architectures."
+tags = ["Wide-Bandgap", "Phase Stability", "Tandem-Ready"]
+
+[[items]]
+title = "All-Perovskite Tandem Devices"
+subtitle = "2-Terminal Monolithic Tandems · >28% PCE"
+content = "Monolithic 2-terminal all-perovskite tandems coupling wide-Eg and narrow-Eg subcells via ALD-based tunneling recombination junctions (TRJ). Contributed to devices exceeding 28% PCE and a certified result >30%."
+tags = ["Tandem", "ALD", "High Efficiency"]
+
+[[items]]
+title = "2D Materials & MXene Interfaces"
+subtitle = "Ti₃C₂Tₓ · Interface Engineering · PhD Core Topic"
+content = "Synthesis and surface functionalisation of Ti3C2Tx MXene nanosheets; integration as heterojunction interlayers in DMA1-xMAxPbI3 perovskite solar cells to enhance charge transport and suppress non-radiative recombination."
+tags = ["MXene", "2D Materials", "Passivation"]
+
+[[items]]
+title = "ALD Electron Transport Layers"
+subtitle = "SnOx · Low-Temperature Processing"
+content = "Low-temperature atomic layer deposition (ALD) of SnOx as electron transport layers for flexible and tandem perovskite devices. Work includes chamber uniformity optimisation and interface passivation strategies."
+tags = ["ALD", "SnOx", "ETL"]
+
+[[items]]
+title = "Operando Characterisation & Stability"
+subtitle = "ISOS Protocols · In-Situ Measurements"
+content = "Real-time stability tracking using custom-built in-situ PL platforms under ISOS protocols (L-1, D-1, T-1); J-V, SPO, MPPT correlating structural evolution with device degradation pathways."
+tags = ["Operando", "ISOS", "Stability", "In-Situ PL"]
+
+[[items]]
+title = "DFT Computational Modelling"
+subtitle = "VASP · Ti₃C₂ Supercells"
+content = "First-principles DFT calculations (VASP) for Ti3C2 2D nanomaterials: unit cell and 4×4 supercell optimisation, band structure, DOS, and adsorption energy of perovskite passivating molecules."
+tags = ["DFT", "VASP", "Computational"]
