@@ -25,8 +25,8 @@ github = "https://github.com/ZhenchuanTian"
 linkedin = "https://www.linkedin.com/in/zhenchuan-tian-01bb0b210/"
 
 [features]
-enable_likes = true
-enable_one_page_mode = true
+enable_likes = false
+enable_one_page_mode = false
 
 [i18n]
 enabled = false
