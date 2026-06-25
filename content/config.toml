@@ -6,6 +6,7 @@ last_updated = "June 2025"
 
 [author]
 name = "Zhenchuan Tian"
+name = "田振川"
 title = "PhD Candidate"
 institution = "Catalan Institute of Nanoscience and Nanotechnology (ICN2)"
 avatar = "/bio.jpg"
@@ -24,8 +25,8 @@ github = "https://github.com/ZhenchuanTian"
 linkedin = "https://www.linkedin.com/in/zhenchuan-tian-01bb0b210/"
 
 [features]
-enable_likes = false
-enable_one_page_mode = false
+enable_likes = true
+enable_one_page_mode = true
 
 [i18n]
 enabled = false
