@@ -24,6 +24,6 @@ Bellaterra (Barcelona), 08193, Spain
 
 ## Postdoc Opportunities
 
-I am actively seeking **postdoctoral positions (starting 2027–2028)** in perovskite photovoltaics, tandem solar cells, energy materials, and thin-film semiconductor characterisation — in both academic and industrial R&D settings.
+I am actively seeking **postdoctoral positions (starting 2029)** in perovskite photovoltaics, tandem solar cells, energy materials, and thin-film semiconductor characterisation — in both academic and industrial R&D settings.
 
 Please feel free to reach out directly by email or through any of the platforms above.
