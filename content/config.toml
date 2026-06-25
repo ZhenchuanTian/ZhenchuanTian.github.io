@@ -5,7 +5,7 @@ favicon = "/favicon.svg"
 last_updated = "June 2025"
 
 [author]
-name_en = "Zhenchuan Tian"
+name = "Zhenchuan Tian"
 name_cn = "田振川"
 title = "PhD Candidate"
 institution = "Catalan Institute of Nanoscience and Nanotechnology (ICN2)"
@@ -25,7 +25,7 @@ github = "https://github.com/ZhenchuanTian"
 linkedin = "https://www.linkedin.com/in/zhenchuan-tian-01bb0b210/"
 
 [features]
-enable_likes = false
+enable_likes = true
 enable_one_page_mode = false
 
 [i18n]
